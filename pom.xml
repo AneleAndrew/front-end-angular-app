@@ -6,7 +6,7 @@
   <!-- P A R E N T  P R O J E C T  D E S C R I P T I O N                      -->
   <!-- ====================================================================== -->
   <parent>
-    <groupId>com.adobe.aem.guides</groupId>
+    <groupId>tech.ioco.spa.aem</groupId>
     <artifactId>aemspaintergration</artifactId>
     <version>1.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
@@ -17,7 +17,7 @@
   <!-- ====================================================================== -->
   <artifactId>aemspaintergration.angular</artifactId>
   <packaging>pom</packaging>
-  <name>aem spa intergration - Angular App</name>
+  <name>Aem Spa Intergration - Angular App</name>
   <description>UI Angular application code for aem spa intergration</description>
 
 
